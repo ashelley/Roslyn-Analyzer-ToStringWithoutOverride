@@ -9,7 +9,7 @@
     <licenseUrl>https://github.com/danstiner/Roslyn-Analyzer-ToStringWithoutOverride/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/danstiner/Roslyn-Analyzer-ToStringWithoutOverride</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>NET Compiler Platform ("Roslyn") analyzer to disallow calling object.ToString() on types lacking an override.</description>
+    <description>NET Compiler Platform ("Roslyn") analyzer to prevent calling object.ToString() on types lacking an override.</description>
     <releaseNotes>Version $version$</releaseNotes>
     <tags>ToStringWithoutOverride, ToString, analyzers</tags>
 	<developmentDependency>true</developmentDependency>
